@@ -57,7 +57,7 @@ public class JGMSFX {
     /**
      * Version.
      */
-    public static final String JGMSFX_VERSION = "v1.0.0";
+    public static final String JGMSFX_VERSION = "v1.0.1";
 
     /**
      * Static base version. Use for more fast access to version, but may be older than actual version.
