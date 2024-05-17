@@ -75,7 +75,7 @@ public class JGMSFX {
      * Get SFX (Simplified). Returns <code>JGMSFXDownloadResult</code>.
      */
     public static JGMSFXDownloadResult jgmsfxGet(String sfxName) {
-        return jgmsfxGet(sfxName, null, true);
+        return jgmsfxGet(sfxName, null, false);
     }
 
     /**
