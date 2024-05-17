@@ -1,2 +1,1 @@
-# jgmsfx
-Java Game SFX: GMSFX3 subproject targeted for Java.
+<p align="center"><img src="icon_.png" width=200></p><h4 align="center">JGMSFX is a sub-project of GMSFX3 targeted at Java by Violent Studio.<br>JGMSFX is part of Violent Studio's projects and is only intended for use within the studio.</h4>
